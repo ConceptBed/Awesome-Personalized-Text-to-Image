@@ -3,17 +3,17 @@ A collection of papers, datasets, and evaluations for personalized text-to-image
 
 ***Content:***
 
- - Description
- - Papers
- - Evaluations
- - Datasets
+ - [Description](#description)
+ - [Papers](#papers)
+ - [Quantitative Evaluations](#evaluations)
+ - [Datasets](#datasets)
 
-## Description
+## <span id="description"> *Description* </span>
 Personalized text-to-image (P-T2I) generation aims to acquire a new concept from a limited set of reference images and generate target images embodying this novel concept. The ability to generate such images holds significant value for various applications, including image editing, enhancing classifier performance, and bolstering robustness, among others.
 
 This GitHub repository aims to provide the necessary resources for people interested in this line of research.
 
-## Papers
+## <span id="papers"> *Papers* </span>
 
  - **An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion**, (ICLR'23)
  [\[project\]](https://textual-inversion.github.io) [\[paper\]](https://arxiv.org/abs/2208.01618) [\[code\]](https://github.com/rinongal/textual_inversion) 
@@ -29,13 +29,13 @@ This GitHub repository aims to provide the necessary resources for people intere
  - **Break-A-Scene: Extracting Multiple Concepts from a Single Image**, (arXiv - May'23) [\[project\]](https://omriavrahami.com/break-a-scene/) [\[paper\]](https://arxiv.org/abs/2305.16311) 
  - **A Neural Space-Time Representation for Text-to-Image Personalization**, (arXiv - May'23) [\[project\]](https://neuraltextualinversion.github.io/NeTI/) [\[paper\]](https://arxiv.org/abs/2305.15391) [\[code\]](https://github.com/NeuralTextualInversion/NeTI) 
 
-## Evaluation
+## <span id="evaluations"> *Evaluations* </span>
 
  - DINO
  - KID
  - CLIPScore
 
-## Dataset
+## <span id="datasets"> *Datasets* </span>
 
  - DreamBooth
  - Custom Diffusion
