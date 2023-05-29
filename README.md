@@ -23,6 +23,9 @@ TBD
  - HiPer [\[paper\]](#) [\[code\]](#) 
  - Regularization Free [\[paper\]](#) [\[code\]](#) 
  - BLIP-Diffusion [\[paper\]](#) [\[code\]](#) 
+ - Break-A-Scene [\[paper\]](#) [\[code\]](#) 
+ - Extended Textual Inversion [\[paper\]](#) [\[code\]](#) 
+ - Neural Space-Time Representation [\[paper\]](#) [\[code\]](#) 
 
 ## Evaluation
 
