@@ -1,16 +1,17 @@
 # Awesome Personalized Text-to-Image
-A collection of models and open-source tools for personalized text-to-image generation.
+A collection of papers, datasets, and evaluations for personalized text-to-image generation.
 
 ***Content:***
 
  - Description
- - Methodologies
+ - Papers
  - Evaluations
  - Datasets
- - Other online resources
 
 ## Description
-TBD
+Personalized text-to-image (P-T2I) generation aims to acquire a new concept from a limited set of reference images and generate target images embodying this novel concept. The ability to generate such images holds significant value for various applications, including image editing, enhancing classifier performance, and bolstering robustness, among others.
+
+This GitHub repository aims to provide the necessary resources for people interested in this line of research.
 
 ## Papers
 
@@ -30,16 +31,14 @@ TBD
 
 ## Evaluation
 
- - ConceptBed
  - DINO
  - KID
  - CLIPScore
 
 ## Dataset
 
- - ConceptBed
  - DreamBooth
  - Custom Diffusion
 
 ## Contributions
-We highly encourage the community contributions. Feel free to create either issue or pull request.
+We highly encourage community contributions. Feel free to create either issue or a pull request.
