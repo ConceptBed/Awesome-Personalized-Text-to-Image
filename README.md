@@ -31,14 +31,15 @@ This GitHub repository aims to provide the necessary resources for people intere
 
 ## <span id="evaluations"> *Evaluations* </span>
 
- - DINO
- - KID
- - CLIPScore
+ - Fréchet Inception Distance (FID) -- For Image Quality [\[Paper\]](https://proceedings.neurips.cc/paper_files/paper/2017/file/8a1d694707eb0fefe65871369074926d-Paper.pdf) [\[Python Code (Pytorch)\]](https://github.com/toshas/torch-fidelity)
+ - Kernel Inception Distance (KID) -- For Concept Overfitting [\[Paper\]](https://arxiv.org/pdf/2206.10935.pdf) [\[Python Code (Pytorch)\]](https://github.com/toshas/torch-fidelity)
+ - DINO Cosine Similarity -- For Concept Similarity [\[Paper\]](https://arxiv.org/abs/2104.14294) [\[Code\]](https://huggingface.co/facebook/dino-vitb8)
+ - CLIPScore -- For Image-Text Alignment [\[Paper\]](https://arxiv.org/abs/2104.08718) [\[Code\]](https://github.com/jmhessel/clipscore)
 
 ## <span id="datasets"> *Datasets* </span>
 
- - DreamBooth
- - Custom Diffusion
+ - Source: DreamBooth [\[Link\]](https://github.com/google/dreambooth)
+ - Source: Custom Diffusion [\[Link\]](https://www.cs.cmu.edu/~custom-diffusion/assets/data.zip)
 
 ## Contributions
 We highly encourage community contributions. Feel free to create either issue or a pull request.
