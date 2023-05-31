@@ -28,6 +28,8 @@ This GitHub repository aims to provide the necessary resources for people intere
  - **BLIP-Diffusion: Pre-trained Subject Representation for Controllable Text-to-Image Generation and Editing**, (arXiv - May'23) [\[project\]](https://dxli94.github.io/BLIP-Diffusion-website/) [\[paper\]](https://arxiv.org/abs/2305.14720) [\[code\]](https://github.com/salesforce/LAVIS/tree/main/projects/blip-diffusion) 
  - **Break-A-Scene: Extracting Multiple Concepts from a Single Image**, (arXiv - May'23) [\[project\]](https://omriavrahami.com/break-a-scene/) [\[paper\]](https://arxiv.org/abs/2305.16311) 
  - **A Neural Space-Time Representation for Text-to-Image Personalization**, (arXiv - May'23) [\[project\]](https://neuraltextualinversion.github.io/NeTI/) [\[paper\]](https://arxiv.org/abs/2305.15391) [\[code\]](https://github.com/NeuralTextualInversion/NeTI) 
+ - **Photoswap: Personalized Subject Swapping in Images**, (arXiv - May'23) [\[project\]](https://photoswap.github.io) [\[paper\]](https://arxiv.org/abs/2305.18286)
+ - **Mix-of-Show: Decentralized Low-Rank Adaptation for Multi-Concept Customization of Diffusion Models**, (arXiv - May'23) [\[project\]](https://showlab.github.io/Mix-of-Show/) [\[paper\]](https://arxiv.org/abs/2305.18292) [\[code\]](https://github.com/TencentARC/Mix-of-Show)
 
 ## <span id="evaluations"> *Evaluations* </span>
 
