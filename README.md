@@ -30,6 +30,7 @@ This GitHub repository aims to provide the necessary resources for people intere
  - **A Neural Space-Time Representation for Text-to-Image Personalization**, (arXiv - May'23) [\[project\]](https://neuraltextualinversion.github.io/NeTI/) [\[paper\]](https://arxiv.org/abs/2305.15391) [\[code\]](https://github.com/NeuralTextualInversion/NeTI) 
  - **Photoswap: Personalized Subject Swapping in Images**, (arXiv - May'23) [\[project\]](https://photoswap.github.io) [\[paper\]](https://arxiv.org/abs/2305.18286)
  - **Mix-of-Show: Decentralized Low-Rank Adaptation for Multi-Concept Customization of Diffusion Models**, (arXiv - May'23) [\[project\]](https://showlab.github.io/Mix-of-Show/) [\[paper\]](https://arxiv.org/abs/2305.18292) [\[code\]](https://github.com/TencentARC/Mix-of-Show)
+ - **Concept Decomposition for Visual Exploration and Inspiration**, (arXiv - May'23) [\[project\]](https://inspirationtree.github.io/inspirationtree/) [\[paper\]](https://arxiv.org/abs/2305.18203)
 
 ## <span id="evaluations"> *Evaluations* </span>
 
